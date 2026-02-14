@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // For GitHub Pages: set base to '/<repo-name>/' 
   // or '/' if using a custom domain or user.github.io repo
-  base: '/',
+  base: '/blogs',
 })
